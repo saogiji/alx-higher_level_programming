@@ -8,3 +8,7 @@ The Hello, World project covers the basics of the python programming language.
 A Shell script that runs a Python script.
 ### 1. Run inline
 A Shell script that runs Python code.
+### 2. Hello, print
+A Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+### 3. Print integer
+A Python script that prints an integer
