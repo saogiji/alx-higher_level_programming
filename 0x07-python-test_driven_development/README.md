@@ -1,0 +1,2 @@
+# 0x07. Python - Test-driven development
+Python's standard distribution contains 'doctest' module. This module's functionality makes it possible to search for pieces of text that look like interactive Python sessions and executes these sessions to see if they work exactly as shown. These examples are extracted from docstring expressions in class, module or function. Doctests can also be run from a text file from an accompanying text file.
